@@ -6,11 +6,6 @@ function skillMembers() {
         name: 'skillMembers',
         type: 'function',
         value: skillMembers
-      },
-      {
-        name: 'skillMembers',
-        type: 'function',
-        value: skillMembers
       }
     ]
   }
