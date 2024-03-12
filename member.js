@@ -1,12 +1,6 @@
-function skillMembers() {
+function skillsMember() {
   return {
-    name: 'skillMembers',
-    members: [
-      {
-        name: 'skillMembers',
-        type: 'function',
-        value: skillMembers
-      }
-    ]
-  }
+    name: 'John',
+    skills: ['JavaScript', 'React', 'Node']
+  };
 }
